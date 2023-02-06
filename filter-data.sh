@@ -2,7 +2,15 @@
 set -euo pipefail
 
 authors='[
-  "martinbasti"
+  "MartinBasti",
+  "Josh-Everett",
+  "jinqi7",
+  "dirgim",
+  "hongweiliu17",
+  "dheerajodha",
+  "sonam1412",
+  "jsztuka",
+  "hacbs-test-bot"
 ]'
 
 # Assumes data from stdin!
