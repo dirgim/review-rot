@@ -10,7 +10,8 @@ authors='[
   "dheerajodha",
   "sonam1412",
   "jsztuka",
-  "hacbs-test-bot"
+  "hacbs-test-bot",
+  "dependabot[bot]"
 ]'
 
 # Assumes data from stdin!
