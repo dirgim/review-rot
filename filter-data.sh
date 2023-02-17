@@ -11,7 +11,8 @@ authors='[
   "sonam1412",
   "jsztuka",
   "hacbs-test-bot",
-  "dependabot[bot]"
+  "dependabot[bot]",
+  "renovate[bot]"
 ]'
 
 # Assumes data from stdin!
