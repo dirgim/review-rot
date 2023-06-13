@@ -4,7 +4,7 @@ set -euo pipefail
 authors='[
   "MartinBasti",
   "Josh-Everett",
-  "jcullina",
+  "jencull",
   "jinqi7",
   "dirgim",
   "hongweiliu17",
