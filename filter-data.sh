@@ -11,6 +11,7 @@ authors='[
   "dheerajodha",
   "sonam1412",
   "jsztuka",
+  "14rcole",
   "hacbs-test-bot",
   "dependabot[bot]",
   "renovate[bot]"
