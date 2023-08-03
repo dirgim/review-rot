@@ -5,6 +5,7 @@ git_services:
   repos:
   - redhat-appstudio/build-definitions
   - redhat-appstudio/book
+  - redhat-appstudio/docs.appstudio.io
   - redhat-appstudio/e2e-tests
   - redhat-appstudio/infra-deployments
   - redhat-appstudio/integration-service
