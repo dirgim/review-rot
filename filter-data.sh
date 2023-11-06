@@ -5,7 +5,6 @@ authors='[
   "MartinBasti",
   "Josh-Everett",
   "jencull",
-  "jinqi7",
   "kasemAlem",
   "dirgim",
   "hongweiliu17",
