@@ -12,5 +12,6 @@ git_services:
   - redhat-appstudio/integration-examples
   - redhat-appstudio/hacbs-test
   - redhat-appstudio/clair-in-ci-db
+  - redhat-appstudio/integration-service-utils
   token: "${GITHUB_TOKEN}"
   type: github
