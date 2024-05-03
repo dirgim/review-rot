@@ -9,10 +9,10 @@ git_services:
   - redhat-appstudio/e2e-tests
   - redhat-appstudio/infra-deployments
   - redhat-appstudio/integration-service
-  - redhat-appstudio/integration-examples
+  - konflux-ci/integration-examples
   - redhat-appstudio/hacbs-test
-  - redhat-appstudio/clair-in-ci-db
-  - redhat-appstudio/integration-service-utils
+  - konflux-ci/clair-in-ci-db
+  - konflux-ci/integration-service-utils
   - redhat-appstudio/tenants-config
   token: "${GITHUB_TOKEN}"
   type: github
