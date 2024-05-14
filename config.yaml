@@ -8,7 +8,7 @@ git_services:
   - redhat-appstudio/docs.appstudio.io
   - redhat-appstudio/e2e-tests
   - redhat-appstudio/infra-deployments
-  - redhat-appstudio/integration-service
+  - konflux-ci/integration-service
   - konflux-ci/integration-examples
   - konflux-ci/konflux-test
   - konflux-ci/clair-in-ci-db
