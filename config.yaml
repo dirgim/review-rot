@@ -13,6 +13,7 @@ git_services:
   - konflux-ci/konflux-test
   - konflux-ci/clair-in-ci-db
   - konflux-ci/integration-service-utils
+  - konflux-ci/docs
   - redhat-appstudio/tenants-config
   token: "${GITHUB_TOKEN}"
   type: github
