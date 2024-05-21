@@ -3,7 +3,7 @@ arguments:
 git_services:
 - host: github.com
   repos:
-  - redhat-appstudio/build-definitions
+  - konflux-ci/build-definitions
   - redhat-appstudio/book
   - redhat-appstudio/docs.appstudio.io
   - redhat-appstudio/e2e-tests
