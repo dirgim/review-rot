@@ -2,7 +2,6 @@
 set -euo pipefail
 
 authors='[
-  "MartinBasti",
   "Josh-Everett",
   "kasemAlem",
   "dirgim",
